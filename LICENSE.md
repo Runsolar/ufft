@@ -1,1 +1,1 @@
-Free license. GNU GPL.
+GNU General Public License
