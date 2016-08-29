@@ -91,16 +91,14 @@ const PROGMEM int Vector[256] = {
 //long type Complex class
 class Complex
 {
-public:
+private:
     long re;
     long im;   
 public:
     Complex(const long r=0, const long i=0) : re(r), im(i) {};
     long real() { return re; };
     long imag() { return im; };
-            
     ~Complex() {}
- 
     //MATH
     Complex operator + (const Complex &c)
     {
