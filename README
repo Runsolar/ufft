@@ -1,8 +1,8 @@
  ufft v.1.0
- Uno Fast Fourier Transform for real time spectrum analisys for speech recognition on Arduino UNO projects, etc. 
+ Uno Fast Fourier Transform for real time spectrum analisys for speech recognition on Arduino (UNO) projects and other low energy systems. 
  This opensource programm for engineering and scientific purposes.
  It uses integer rounding and long type in complex computation.
- Tested on Arduino UNO: ATMega 328p, 16MHz.
+ Tested on Arduino UNO: ATMega 328, 16MHz.
  Results: Elapsed time 16ms for 128 data length, and 31ms for 256.
  Free license.
  Maked by Danijar Wolf, 2016.
