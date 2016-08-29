@@ -6,7 +6,7 @@
  It uses integer rounding and long type in complex computation.
  Tested on Arduino UNO: ATMega 328, 16MHz.
  Results: Elapsed time 16ms for 128 data length, and 31ms for 256.
- License: GNU GPL
+ License: GNU GPL.
  Maked by Danijar Wolf, 2016.
  */
 
